@@ -12,5 +12,5 @@ class Dog
 	def mutt
 		@mutt
 	end
-	
+
 end
