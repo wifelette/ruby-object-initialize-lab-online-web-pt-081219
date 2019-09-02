@@ -10,7 +10,7 @@ class Dog
 	end
 
 	def mutt
-		@mutt
+		@breed
 	end
 
 end
